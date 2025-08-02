@@ -1,10 +1,31 @@
+# Core Data Science Libraries
 pandas>=1.5.0
 numpy>=1.21.0
 scikit-learn>=1.1.0
+
+# Visualization Libraries
 matplotlib>=3.5.0
 seaborn>=0.11.0
-streamlit>=1.15.0
-tensorflow>=2.10.0
 plotly>=5.10.0
+
+# Machine Learning & Deep Learning
+tensorflow>=2.10.0
+
+# Web Application
+streamlit>=1.15.0
+
+# Jupyter Notebook
 jupyter>=1.0.0
 ipykernel>=6.15.0
+
+# Additional packages used in the project
+datetime  # Built-in Python module
+os  # Built-in Python module
+sys  # Built-in Python module
+random  # Built-in Python module
+warnings  # Built-in Python module
+pickle  # Built-in Python module
+argparse  # Built-in Python module
+subprocess  # Built-in Python module
+time  # Built-in Python module
+collections  # Built-in Python module
