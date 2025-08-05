@@ -150,6 +150,17 @@ pip install streamlit pandas numpy scikit-learn tensorflow plotly seaborn matplo
 ## 📄 License
 MIT License - ใช้งานได้อย่างอิสระ
 
+## ติดต่อ
+
+### **ผู้พัฒนา**
+- **GitHub:** [@Nanatsume](https://github.com/Nanatsume)
+- **Email:** ntphototh@gmail.com
+- **LinkedIn:** [Nhatthapong](https://www.linkedin.com/in/nhatthapong-pukdeeboon-205203369/)
+
+### **การสนับสนุน**
+- **Bug Reports:** [Issues](https://github.com/Nanatsume/hr-optimization-system/issues)
+- **Feature Requests:** [Discussions](https://github.com/Nanatsume/hr-optimization-system/discussions)
+- **Documentation:** [Wiki](https://github.com/Nanatsume/hr-optimization-system/wiki)
 ---
 
 *เวอร์ชัน: 2.0 | อัพเดตล่าสุด: August 2025*
