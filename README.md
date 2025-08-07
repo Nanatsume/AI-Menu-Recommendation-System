@@ -9,12 +9,12 @@
 - **Business Intelligence** วิเคราะห์ข้อมูลเพื่อการตัดสินใจทางธุรกิจ
 
 ## เทคนิค AI ที่ใช้
-- ✅ **Matrix Factorization** (SVD) - Collaborative Filtering
-- ✅ **Neural Collaborative Filtering** - Deep Learning
-- ✅ **Hybrid Recommendation System** - รวมหลายเทคนิค
-- ✅ **Content-Based Filtering** - ใช้ข้อมูลเมนู
-- ✅ **Customer Segmentation** - K-means Clustering
-- ✅ **Advanced Evaluation** - 15+ metrics
+- **Matrix Factorization** (SVD) - Collaborative Filtering
+- **Neural Collaborative Filtering** - Deep Learning
+- **Hybrid Recommendation System** - รวมหลายเทคนิค
+- **Content-Based Filtering** - ใช้ข้อมูลเมนู
+- **Customer Segmentation** - K-means Clustering
+- **Advanced Evaluation** - 15+ metrics
 
 ## โครงสร้างข้อมูล
 - **ลูกค้า**: 500 คน (เพศ, อายุ, งบประมาณ, เวลาที่ชอบ)
@@ -60,7 +60,7 @@ streamlit run dashboard/app.py
 streamlit run app/streamlit_app.py
 ```
 
-### 🔧 รันแยกส่วน
+### รันแยกส่วน
 ```bash
 # สร้างข้อมูล
 python main.py --action generate
@@ -78,7 +78,7 @@ python main.py --action evaluate
 python demo.py
 ```
 
-### 📊 Jupyter Notebook
+### Jupyter Notebook
 ```bash
 jupyter notebook notebooks/AI-Recommend.ipynb
 ```
@@ -108,10 +108,10 @@ jupyter notebook notebooks/AI-Recommend.ipynb
 - **Jupyter Notebook**: การวิเคราะห์เชิงลึก
 
 ## ผลลัพธ์ที่คาดหวัง
-- ✅ **เพิ่มยอดขาย 15-25%** จากการแนะนำที่แม่นยำ
-- ✅ **ลดเวลาตัดสินใจ 30-40%** ของลูกค้า
-- ✅ **เพิ่มความพึงพอใจลูกค้า** จาก personalization
-- ✅ **ปรับปรุงการจัดการสต็อก** จากการพยากรณ์ความต้องการ
+- **เพิ่มยอดขาย 15-25%** จากการแนะนำที่แม่นยำ
+- **ลดเวลาตัดสินใจ 30-40%** ของลูกค้า
+- **เพิ่มความพึงพอใจลูกค้า** จาก personalization
+- **ปรับปรุงการจัดการสต็อก** จากการพยากรณ์ความต้องการ
 
 ## เทคโนโลยีที่ใช้
 - **Python 3.9+** - ภาษาหลัก
@@ -122,7 +122,7 @@ jupyter notebook notebooks/AI-Recommend.ipynb
 - **Plotly** - Data Visualization
 - **Jupyter** - การวิเคราะห์
 
-## 📋 Requirements
+## Requirements
 ```bash
 pip install -r requirements.txt
 ```
@@ -147,7 +147,7 @@ pip install streamlit pandas numpy scikit-learn tensorflow plotly seaborn matplo
 - Multi-armed Bandit Optimization
 - Cloud Deployment (Docker + Kubernetes)
 
-## 📄 License
+## License
 MIT License - ใช้งานได้อย่างอิสระ
 
 ## ติดต่อ
